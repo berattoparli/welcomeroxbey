@@ -1,0 +1,14 @@
+{
+    "DEFAULTS": {
+        "AUTHORS": [],
+        "ACTIVITY_TEXT": "Maiwen Code Welcome",
+        "GUILD_ID": "751757699041198080",
+        "VOICE_CHANNEL": "808376571462287392",
+        "MIN_STAFF_ROLE": "806927851277516820"
+    },
+    "FILES": {
+        "WELCOME": "default_files/welcome.mp3",
+        "STAFF": "default_files/staff.mp3"
+    },
+    "TOKEN": ""
+}
